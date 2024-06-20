@@ -10,38 +10,38 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Células procarióticas e eucarióticas apresentam membrana plasmática.",
-                afirmação: "Células procarióticas e eucarióticas apresentam membrana plasmática."
+                afirmacao: "Células procarióticas e eucarióticas apresentam membrana plasmática,"
             },
             {
-                texto: "Apenas as células eucarióticas apresentam ribossomos",
-                afirmação: "Apenas as células eucarióticas apresentam ribossomos"
+                texto: "Apenas as células eucarióticas apresentam ribossomos.",
+                afirmacao: "Células procarióticas e eucarióticas apresentam membrana plasmática,"
             }          
            
         ]
     },
     {
-        enunciado: " Um anel tem 3 pedras preciosas. Quantas pedras preciosas têm 11 anéis?",
+        enunciado: " Qual desses é considerado o material genético das células?",
         alternativas: [
             {
-                texto:"33",
-                afirmacao:"33,"
+                texto:"Proteínas",
+                afirmacao:"DNA,"
             },
             {
-                texto: "30",
-                afirmacao:"33,"
+                texto: "DNA",
+                afirmacao:"DNA,"
             }
         ]
     },
     {
-        enunciado: " Qual o nome popular do cloreto de sódio?",
+        enunciado: " Qual desses processos biológicos é responsável pela conversão de luz solar em energia química?",
         alternativas: [
             {
-                texto:" Sal de cozinha",
-                afirmacao:" Sal de cozinha,"
+                texto:"Fotossíntese",
+                afirmacao:"Fotossintese,"
             },
             {
-                texto:"Fermento",
-                afirmacao:" Sal de cozinha,"
+                texto:"Respiração celular",
+                afirmacao:"Fotossintese,"
             }
            
         ]
