@@ -47,29 +47,29 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Normalmente, quantos litros de sangue uma pessoa tem? Em média, quantos são retirados numa doação de sangue?",
+        enunciado: "Parênquima, colênquima, esclerênquima e epiderme são exemplos de:",
         alternativas: [
             {
-                texto:" Tem entre 2 a 4 litros. São retirados 450 mililitros",
-                afirmacao:"Tem entre 4 a 6 litros e São retirados 450 mililitros,"
+                texto:"Tecidos",
+                afirmacao:"Tecidos"
             },
             {
-                texto:"Tem entre 4 a 6 litros. São retirados 450 mililitros",
-                afirmacao:"Tem entre 4 a 6 litros e São retirados 450 mililitros,"
+                texto:"Sistema",
+                afirmacao:"Tecidos"
             }
            
         ]
     },
     {
-        enunciado: " O que a palavra legend significa em português?",
+        enunciado: "O conjunto formado por todos os ecossistemas do nosso planeta é chamado de:",
         alternativas: [
             {
-                texto: "Legenda",
-                afirmacao:"Lenda."
+                texto: "Comunidade",
+                afirmacao:"e Biosfera."
             },
             {
-                texto: "Lenda",
-                afirmacao:"Lenda."
+                texto: "Biosfera",
+                afirmacao:"e Biosfera."
             }
            
            
