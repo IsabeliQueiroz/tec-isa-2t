@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Células procarióticas e eucarióticas apresentam membrana plasmática.",
-                afirmacao: "Células procarióticas e eucarióticas apresentam membrana plasmática,"
+                afirmacao: "Correto,"
             },
             {
                 texto: "Apenas as células eucarióticas apresentam ribossomos.",
-                afirmacao: "Células procarióticas e eucarióticas apresentam membrana plasmática,"
+                afirmacao: "Incorreto,"
             }          
            
         ]
@@ -24,11 +24,11 @@ const perguntas = [
         alternativas: [
             {
                 texto:"Proteínas",
-                afirmacao:"DNA,"
+                afirmacao:"incorreto,"
             },
             {
                 texto: "DNA",
-                afirmacao:"DNA,"
+                afirmacao:"correto,"
             }
         ]
     },
@@ -37,11 +37,11 @@ const perguntas = [
         alternativas: [
             {
                 texto:"Fotossíntese",
-                afirmacao:"Fotossintese,"
+                afirmacao:"correto,"
             },
             {
                 texto:"Respiração celular",
-                afirmacao:"Fotossintese,"
+                afirmacao:"incorreto,"
             }
            
         ]
@@ -51,11 +51,11 @@ const perguntas = [
         alternativas: [
             {
                 texto:"Tecidos",
-                afirmacao:"Tecidos"
+                afirmacao:"correto "
             },
             {
                 texto:"Sistema",
-                afirmacao:"Tecidos"
+                afirmacao:"incorreto "
             }
            
         ]
@@ -65,11 +65,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Comunidade",
-                afirmacao:"e Biosfera."
+                afirmacao:"e incorreto."
             },
             {
                 texto: "Biosfera",
-                afirmacao:"e Biosfera."
+                afirmacao:"e correto."
             }
            
            
